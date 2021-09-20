@@ -30,14 +30,14 @@ https://eartharxiv.org/repository/view/2541/
 
 Python libaries:
 
-import ee
-import geemap
-import math
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import geopandas as gpd
-import os
+- import ee
+- import geemap
+- import math
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import pandas as pd
+- import geopandas as gpd
+- import os
 
 
 Furthermore, a Google Earth Eninge account is required with following shapefiles as assests:
