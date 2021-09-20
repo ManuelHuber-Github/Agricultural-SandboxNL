@@ -48,7 +48,7 @@ Furthermore, a Google Earth Eninge account is required with following shapefiles
 - Province and Municipality shapefiles form The Netherlands 
 - source: https://data.4tu.nl/articles/dataset/Agricultural_SandboxNL_Database_V1_0/14438750?file=28533669
  
-
+---------------------------------------------------------------------------
 2) Creating_Pickle_Files_Per_Province_Clean_Sort.py
 
 - import numpy as np
@@ -67,12 +67,12 @@ Furthermore, a Google Earth Eninge account is required with following shapefiles
 - from shapely.geometry import Point
 - from shapely.geometry.polygon import Polygon
 - import math
-
+---------------------------------------------------------------------------
 3) ...
  
  
  
- 
+ ---------------------------------------------------------------------------
 4) SandBoxNL_Introduction_Script_GRD.ipynb
 
 Python libaries:
