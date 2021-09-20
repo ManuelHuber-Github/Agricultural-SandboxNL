@@ -49,9 +49,24 @@ Furthermore, a Google Earth Eninge account is required with following shapefiles
 - source: https://data.4tu.nl/articles/dataset/Agricultural_SandboxNL_Database_V1_0/14438750?file=28533669
  
 
-2) ...
+2) Creating_Pickle_Files_Per_Province_Clean_Sort.py
 
-
+- import numpy as np
+- import re
+- import geopandas as gpd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import pandas as pd
+- import pickle
+- from datetime import datetime, date, time
+- import glob
+- import sys
+- import os
+- import pickle
+- import datetime as datetime2
+- from shapely.geometry import Point
+- from shapely.geometry.polygon import Polygon
+- import math
 
 3) ...
  
