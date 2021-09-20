@@ -42,7 +42,7 @@ The structure of this repostitory is the follwoing:
 1) Sentinel 1 GRD 
   - Database creation script
   - Introduction script 
-3) Sentinel 1 Inter. Coherence
+3) Sentinel 1 Interferometric Coherence
   - Database creation script
   - Introduction script 
 5) Sentinel 2
