@@ -40,13 +40,13 @@ This git-hub repository shall give all information about this project, starting 
 All information is openly avialable and should give the opportunity to enhance research for agricultural monitoring and to create operational applications. 
 The structure of this repostitory is the follwoing: 
 1) Sentinel 1 GRD 
-  - Database creation/mining
+  - Database creation
   - Introduction script 
 3) Sentinel 1 Inter. Coherence
-  - Database creation/mining
+  - Database creation
   - Introduction script 
 5) Sentinel 2
-  - Database creation/mining
+  - Database creation
   - Introduction script 
 6) SandboxNL projects
   - Established concepts to create applications 
