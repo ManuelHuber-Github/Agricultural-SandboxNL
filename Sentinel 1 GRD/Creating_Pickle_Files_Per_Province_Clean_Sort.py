@@ -9,13 +9,10 @@ Created on Mon Sep 20 14:54:52 2021
 import numpy as np
 import re
 import geopandas as gpd
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-
 import pickle
-#import datetime
 from datetime import datetime, date, time
 import glob
 import sys
@@ -24,8 +21,6 @@ import pickle
 import datetime as datetime2
 from shapely.geometry import Point
 from shapely.geometry.polygon import Polygon
-#np.set_printoptions(threshold=sys.maxsize)
-
 import math
 
 #%% Splitting the dataset and then concatenating it.
