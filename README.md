@@ -20,11 +20,13 @@ What does the Agricultural SandboxNL contain?
 ------------------------------------------------------------------------------
 # Authors:
 
-Vineet Kumar (V.Kumar-1@tudelft.nl), Department of Water Management, Delft University of Technology, Delft, The Netherlands,
-Manuel Huber (manuel.huber@esa.int), European Space Agency (ESA-ESTEC), Noordwijk,The Netherlands,
-Susan Steele-Dunne (s.c.steele-dunne@tudelft.nl), Department of Geoscience and Remote Sensing, Delft University of Technology, Delft, The Netherlands,
-Björn Rommen (Bjorn.Rommen@esa.int), European Space Agency (ESA-ESTEC), Noordwijk,The Netherlands
+- Vineet Kumar (V.Kumar-1@tudelft.nl), Department of Water Management, Delft University of Technology, Delft, The Netherlands,
+- Manuel Huber (manuel.huber@esa.int), European Space Agency (ESA-ESTEC), Noordwijk,The Netherlands,
+- Susan Steele-Dunne (s.c.steele-dunne@tudelft.nl), Department of Geoscience and Remote Sensing, Delft University of Technology, Delft, The Netherlands,
+- Björn Rommen (Bjorn.Rommen@esa.int), European Space Agency (ESA-ESTEC), Noordwijk,The Netherlands
 
+
+(Github Author Manuel Huber, manuel.huber@esa.int)
 ------------------------------------------------------------------------------
 
 The following figure illustrates multiple images in from of a GIF, showing the spatial and temporal extension of the Sentinel 1 GRD and Interferometric Coherence as well as the Sentinel 2 datasets. The VH/VV is representing the Sentinel 1 GRD database using only one relative orbit out of the six different orbits covering the Netherlands. In all three subplots, the monthly averages are shown, highlighting the main crop dynamics such as emergence, growth and harvest. The time series plots show the variation of all maize fields within Dronten as an example to illustrate the average growing cycle of maize indicating emergence around June and harvest in the beginning of October. Still, below the monthly averages much more information is hidden, containing crop specific anomalies and patterns depending on environmental factors, individual famer practices, crop type and viewing geometries of the satellites. 
