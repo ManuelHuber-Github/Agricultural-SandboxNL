@@ -63,6 +63,13 @@ This publication does not fully capture all databases yet but upcoming publicati
 
 ------------------------------------------------------------------------------
 
+# System Requirements
+
+All scripts are based on python 3>. Other services such as Google Earth Engine, SentinelHub, ASF Alaska (https://search.asf.alaska.edu/#/) as well as SNAP (V. 8>) are used uitilizing python as application programming interface. 
+
+
+------------------------------------------------------------------------------
+
 # Side Notes
 
 All databases will be continously updated each year once the new BRP database is published by PDOK (https://www.pdok.nl/geo-services/-/article/basisregistratie-gewaspercelen-brp-)
