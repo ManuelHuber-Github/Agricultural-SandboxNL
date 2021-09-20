@@ -9,12 +9,12 @@ These unique datasets allow non-expert and expert users to directly utilize agri
 
 What does the Agricultural SandboxNL contain?
 
-•	A national scale database
-•	Parcel level, processed SAR (Sentinel-1) data – six relative orbits
-•	Parcel level, processed Optical (Sentinel-2) data – 12 spectral bands
-•	Parcel level, processed SAR (Sentinel-1) Interferometric Coherence – one relative orbit
-•	770.000 crop parcels containing 312 different crop types
-•	Up to 3 years of continuous data
+-	A national scale database
+-	Parcel level, processed SAR (Sentinel-1) data / six relative orbits
+-	Parcel level, processed Optical (Sentinel-2) data / 12 spectral bands
+-	Parcel level, processed SAR (Sentinel-1) Interferometric Coherence / one relative orbit
+-	770.000 crop parcels containing 312 different crop types
+-	Up to 3 years of continuous data
 
 
 ------------------------------------------------------------------------------
