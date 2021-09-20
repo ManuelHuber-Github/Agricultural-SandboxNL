@@ -1,5 +1,7 @@
 # Overview SandboxNL projects:
 
+In this section, potential ideas to create retrieval chains using the datasets are illustrated. Some of them are in an advanced sate and some of them are rough ideas. Futhermore, scripts will be uploaded to viualize the datasets and how to use the information in synergy. 
+
 ---------------------------------------------------------------
 
 # Accomplished projects and applications:
