@@ -11,4 +11,4 @@
 5) Emergence and Harvest estimations
 6) ....
 
-PLEASE: Concact me for new ideas and concepts to exand the utiltiy of those unique datasets: manuel.huber@esa.int
+PLEASE: Concact me for new ideas and concepts to expand the utiltiy of those unique datasets: manuel.huber@esa.int
