@@ -17,6 +17,8 @@ The data base creation is split into three steps:
 
 3) Creating netCDF files out of pickle files
 
+4) Introduction python script to access, manipulate and visualize the database
+
 More information about and explanations for all steps mentioned can be found in the Agricultural SandboxNL publication:
 "Agricultural Sandbox NL: A national-scale database of parcel-level, processed Sentinel-1 SAR data"
 https://eartharxiv.org/repository/view/2541/
@@ -46,8 +48,17 @@ Furthermore, a Google Earth Eninge account is required with following shapefiles
 - Province and Municipality shapefiles form The Netherlands 
 - source: https://data.4tu.nl/articles/dataset/Agricultural_SandboxNL_Database_V1_0/14438750?file=28533669
  
+
+2) ...
+
+
+
+3) ...
  
-2) SandBoxNL_Introduction_Script_GRD.ipynb
+ 
+ 
+ 
+4) SandBoxNL_Introduction_Script_GRD.ipynb
 
 Python libaries:
 
