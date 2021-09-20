@@ -72,5 +72,5 @@ All scripts are based on python 3>. Other services such as Google Earth Engine, 
 
 # Side Notes
 
-All databases will be continously updated each year once the new BRP database is published by PDOK (https://www.pdok.nl/geo-services/-/article/basisregistratie-gewaspercelen-brp-)
+All databases will be continously updated each year once the new BRP databases are published by PDOK (https://www.pdok.nl/geo-services/-/article/basisregistratie-gewaspercelen-brp-)
 
