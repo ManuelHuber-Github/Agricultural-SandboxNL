@@ -57,7 +57,7 @@ The structure of this repostitory is the follwoing:
 # Data Access
 
 The data is uploaded on the 4TU platfrom and any use must be cited: https://data.4tu.nl/articles/dataset/Agricultural_SandboxNL_Database_V1_0/14438750?file=28533669
-The database publication is currently under review but will be available in the Nature Scinetific Data (https://www.nature.com/sdata/). The pre-print version is available via following link: https://www.nature.com/sdata/
+The database publication is currently under review but will be available in the Nature Scinetific Data (https://www.nature.com/sdata/). The pre-print version is available via following link: https://eartharxiv.org/repository/view/2541/
 
 This publication does not fully capture all databases yet but upcoming publications will introduce them to the scientific and operational world. 
 
