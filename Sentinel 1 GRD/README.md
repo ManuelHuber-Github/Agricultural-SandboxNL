@@ -42,7 +42,7 @@ Python libaries:
 
 Furthermore, a Google Earth Eninge account is required with following shapefiles as assests:
 - BRP shapefile (this changes per year) 
-- Province and Municipality shapefiles formt The Netherlands 
+- Province and Municipality shapefiles form The Netherlands 
 - source: https://data.4tu.nl/articles/dataset/Agricultural_SandboxNL_Database_V1_0/14438750?file=28533669
  
  
