@@ -5,6 +5,18 @@ In the Agricultural SandboxNL, consecutive years (strating from 2017) of Snetine
 
 The databases (Sentinel 1 and 2)  provide time series for approximately  770,000  crop  parcels  over  the  Netherlands  annually. The  database  can  be queried for Sentinel-1 /2 system parameter (e.g. relative orbit) or user application-specific parameter (e.g. crop type, spatial extent, time period) for individual parcel level assessment or aggregated at administrative boundaries.
 
+These unique datasets allow non-expert and expert users to directly utilize agricultural parcel information in space and time using SAR and optical data without undergoing complex and computationally intensive data handling and processing steps. The extracted spatially tagged parcel-level information is scalable at various administrative (e.g., municipalities, water boards and provinces) and user defined boundaries.
+
+What does the Agricultural SandboxNL contain?
+
+•	A national scale database
+•	Parcel level, processed SAR (Sentinel-1) data – six relative orbits
+•	Parcel level, processed Optical (Sentinel-2) data – 12 spectral bands
+•	Parcel level, processed SAR (Sentinel-1) Interferometric Coherence – one relative orbit
+•	770.000 crop parcels containing 312 different crop types
+•	Up to 3 years of continuous data
+
+
 ------------------------------------------------------------------------------
 # Authors:
 
