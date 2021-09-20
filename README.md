@@ -36,7 +36,19 @@ The following figure illustrates multiple images in from of a GIF, showing the s
 
 This git-hub repository shall give all information about this project, starting from database creation and data minining to concrete retrieval examples. 
 All information is openly avialable and should give the opportunity to enhance research for agricultural monitoring and to create operational applications. 
-
+The structure of this repostitory is the follwoing: 
+1) Sentinel 1 GRD 
+  - Database creation/mining
+  - Introduction script 
+3) Sentinel 1 Inter. Coherence
+  - Database creation/mining
+  - Introduction script 
+5) Sentinel 2
+  - Database creation/mining
+  - Introduction script 
+6) SandboxNL projects
+  - Established concepts to create applications 
+  - Ides for potential applications
 
 
 
