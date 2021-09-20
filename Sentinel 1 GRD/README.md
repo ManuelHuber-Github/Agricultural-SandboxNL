@@ -4,10 +4,11 @@ The data base creation is split into three steps:
 
 1) Mining the data from Google Earth Engine 
     - This includes including field buffer zone
+    - Border Noise Removal
     - Calculating Local Incidence Angle
     - Storing all parcel information 
     - Calculating Cross-Pol Ratio VH/VV
-    - Doing all processes for six different orbits (ascending [88,161,15] and descending [37,110,139])
+    - Processing for six different relative orbits (ascending [88,161,15] and descending [37,110,139])
     - Downloading all processed data per relative orbit
 
 2) Creating Pickle files
