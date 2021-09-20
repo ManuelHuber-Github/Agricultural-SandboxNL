@@ -9,6 +9,7 @@ Created on Mon Sep 20 14:54:52 2021
 import numpy as np
 import re
 import geopandas as gpd
+import scipy as sc
 
 import numpy as np
 import matplotlib.pyplot as plt
