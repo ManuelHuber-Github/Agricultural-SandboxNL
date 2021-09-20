@@ -8,11 +8,12 @@ The data base creation is split into three steps:
     - Storing all parcel information 
     - Calculating Cross-Pol Ratio VH/VV
     - Doing all processes for six different orbits (ascending [88,161,15] and descending [37,110,139])
+    - Downloading all processed data per relative orbit
 
 2) Creating Pickle files
     - This includes cleaning the data 
     - Flagging flase or potentially false parcels
-    - Restructing the data 
+    - Structuring and formating the data 
 
 3) Creating netCDF files out of pickle files
 
