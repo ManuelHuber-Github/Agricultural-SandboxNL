@@ -68,7 +68,24 @@ Furthermore, a Google Earth Eninge account is required with following shapefiles
 - from shapely.geometry.polygon import Polygon
 - import math
 ---------------------------------------------------------------------------
-3) ...
+3) Creating_netCDF_from_pickle_files.py
+
+- import netCDF4 as nc4
+- import numpy as np
+- import re
+- import geopandas as gpd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import pandas as pd
+- from netCDF4 import Dataset
+- import pickle
+- from datetime import datetime, date, time
+- import glob
+- import sys
+- from shapely.geometry import Point
+- from shapely.geometry.polygon import Polygon
+- import math    
+- import os
  
  
  
