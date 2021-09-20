@@ -1,4 +1,4 @@
-# Addtional information about the database creation and introduction script
+# Addtional information about the dataset creation and introduction script
 
 The data base creation is split into three steps:
 
@@ -24,7 +24,7 @@ https://eartharxiv.org/repository/view/2541/
 ---------------------------------------------------------------------------
 
 
-# Information and requirements for data base creation scripts
+# Information and requirements for dataset creation scripts
 
 1) Mining_S1GRD_Per_Parcel_GEE_Python_API.py
 
