@@ -18,7 +18,7 @@ What does the Agricultural SandboxNL contain?
 
 
 ------------------------------------------------------------------------------
-# Authors:
+# Authors involed in the SandboxNL project:
 
 - Vineet Kumar (V.Kumar-1@tudelft.nl), Department of Water Management, Delft University of Technology, Delft, The Netherlands,
 - Manuel Huber (manuel.huber@esa.int), European Space Agency (ESA-ESTEC), Noordwijk,The Netherlands,
@@ -50,7 +50,20 @@ The structure of this repostitory is the follwoing:
   - Introduction script 
 6) SandboxNL projects
   - Established concepts to create applications 
-  - Ides for potential applications
+  - Ideas for potential applications
 
+------------------------------------------------------------------------------
 
+# Data Access
+
+The data is uploaded on the 4TU platfrom and any use must be cited: https://data.4tu.nl/articles/dataset/Agricultural_SandboxNL_Database_V1_0/14438750?file=28533669
+The database publication is currently under review but will be available in the Nature Scinetific Data (https://www.nature.com/sdata/). The pre-print version is available via following link: https://www.nature.com/sdata/
+
+This publication does not fully capture all databases yet but upcoming publications will introduce them to the scientific and operational world. 
+
+------------------------------------------------------------------------------
+
+# Side Notes
+
+All databases will be continously updated each year once the new BRP database is published by PDOK (https://www.pdok.nl/geo-services/-/article/basisregistratie-gewaspercelen-brp-)
 
