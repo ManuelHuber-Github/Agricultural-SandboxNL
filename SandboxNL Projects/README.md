@@ -1,4 +1,4 @@
-# Addtional information about the SandboxNL projects:
+# Overview SandboxNL projects:
 
 ---------------------------------------------------------------
 
