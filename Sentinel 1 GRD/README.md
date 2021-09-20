@@ -47,3 +47,26 @@ Furthermore, a Google Earth Eninge account is required with following shapefiles
 - source: https://data.4tu.nl/articles/dataset/Agricultural_SandboxNL_Database_V1_0/14438750?file=28533669
  
  
+2) SandBoxNL_Introduction_Script_GRD.ipynb
+
+Python libaries:
+
+- import netCDF4 as nc4
+- import numpy as np
+-import geopandas as gpd
+- import matplotlib.pyplot as plt
+- import pandas as pd
+- from netCDF4 import Dataset
+- import pickle as pickle
+- import xlrd
+- from datetime import datetime, date, time
+- import glob
+- import math    
+- import os
+- from shapely.geometry import Point
+- from shapely.geometry.polygon import Polygon
+- from shapely import wkt
+- import shapely
+
+This code is written in Python (3.6>) within Jupyter Notebook. It gives examples how to use and work with the Sentinel 1 GRD database. A detailed explanation for every step is included in this code. 
+
