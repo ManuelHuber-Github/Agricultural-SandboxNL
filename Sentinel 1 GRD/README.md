@@ -24,7 +24,7 @@ https://eartharxiv.org/repository/view/2541/
 ---------------------------------------------------------------------------
 
 
-# Information and requirements for data base creation
+# Information and requirements for data base creation scripts
 
 1) Mining_S1GRD_Per_Parcel_GEE_Python_API.py
 
