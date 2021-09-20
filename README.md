@@ -1,4 +1,4 @@
-# SandboxNL
+# Agricultural SandboxNL
 Agricultural Monitoring exploiting Sentinel 1 and Sentinel 2. SandboxNL contains detailed explanations about the creation and usage of the parcel based Sentinel datasets - covering The Netherlands. 
 
 In the Agricultural SandboxNL, consecutive years (strating from 2017) of Snetinel-1A/B synthetic aperture radar (SAR) scenes as well as Sentinel 2 images, are used to generated the Basisregestratie GewasPercelen (BRP) parcel-level database of the Netherlands. The database is consists of parcel-level spatially averaged VV, VH and VH/VV backscatter values, corresponding standard deviation, viewing incidence angle, local incidence angle, azimuth angle, pixel count and data quality flag for each parcel. Each parcel can be identified with an unique Object ID. The same counts for the processing steps applied onto the Sentinel 2 images. All spectral bands have been processed and stored using the same BRP parcel information.
