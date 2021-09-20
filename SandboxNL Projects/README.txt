@@ -1,1 +1,0 @@
-# Addtional information about the SandboxNl projects
