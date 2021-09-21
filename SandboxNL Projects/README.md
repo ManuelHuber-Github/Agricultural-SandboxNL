@@ -4,11 +4,15 @@ In this section, potential ideas to create retrieval chains using the datasets a
 
 ---------------------------------------------------------------
 
+# Data Visulaization
+
+
+
+---------------------------------------------------------------
+
 # Accomplished projects and applications:
 
-1)..
-
-2)...
+In work.
 
 ---------------------------------------------------------------
 
