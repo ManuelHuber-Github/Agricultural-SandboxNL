@@ -1,4 +1,4 @@
-![sandbox_ex7](https://user-images.githubusercontent.com/62883629/134159970-c9b7c339-11ba-4458-b3b7-a49a8074d9e5.jpg)
+![sandbox_ex6](https://user-images.githubusercontent.com/62883629/134167795-346cc4d4-029c-4fce-8794-6ab752725dcf.jpg)
 
 
 
