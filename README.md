@@ -1,3 +1,7 @@
+![Sandbox_image_ex1](https://user-images.githubusercontent.com/62883629/134148467-09ab5785-a6aa-4ba9-829c-4254087753a9.jpg)
+
+
+
 # Agricultural SandboxNL
 Agricultural Monitoring exploiting Sentinel 1 and Sentinel 2. SandboxNL contains detailed explanations about the creation and usage of the parcel based Sentinel datasets - covering The Netherlands. 
 
