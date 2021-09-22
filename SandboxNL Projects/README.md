@@ -4,7 +4,7 @@ In this section, potential ideas to create retrieval chains using the datasets a
 
 ---------------------------------------------------------------
 
-# Data Visulaization Examples
+# Data Visulaization Example
 
 
 
