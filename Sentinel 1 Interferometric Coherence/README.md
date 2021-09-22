@@ -1,5 +1,8 @@
 # Addtional information about the database creation and introduction script
 
+As the computational effort is very large coherence datasets have only be processed for one relative orbit 88 (as this has the best coverage over The Netherlands). 
+Still, in the future more orbits will be added to this database. 
+
 ---------------------------------------------------------------------
 
 1) Calculating_Interferometric_Coherence_Batch_Script_SNAP_Python.py
@@ -57,4 +60,22 @@ containing all infromation.
 
 The output is ready for analysis and visualization. 
 
+-----------------------------------------------------------------------------
 
+4) SandBoxNL_Code_Introduction_Coherence.ipynb
+
+- import netCDF4 as nc4
+- import numpy as np
+- import geopandas as gpd
+- import matplotlib.pyplot as plt
+- import pandas as pd
+- from netCDF4 import Dataset
+- import pickle
+- from datetime import datetime, date, time
+- import glob
+- import math    
+- import os
+- from shapely.geometry import Point
+- from shapely.geometry.polygon import Polygon
+
+This example script works with the interferometric coherence dataset used in the SanboxNL publication covering Flevoland for the relative orbit 110. 
