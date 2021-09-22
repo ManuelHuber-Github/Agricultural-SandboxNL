@@ -20,4 +20,25 @@ This script requires the user to have an active Google Earth Engine account. Use
 
 -------------------------------------------------------------------
 
-2) Introduction Script Sentine2....
+2) Creating_Pickle_Sentinel2_All_Bands.py
+
+- import numpy as np
+- import re
+- import geopandas as gpd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import pandas as pd
+- import pickle
+- from datetime import datetime, date, time
+- import glob
+- import sys
+- import os
+- import pickle
+- import datetime as datetime2
+- from shapely.geometry import Point
+- from shapely.geometry.polygon import Polygon
+- import math
+
+-------------------------------------------------------------------
+
+3) Introduction Script Sentinel 2....
