@@ -1,6 +1,7 @@
 # Addtional information about the database creation and introduction script
 
-The whole database was mined via Google Earth Engine using a Python API. 
+The whole database was mined via Google Earth Engine using a Python API. Following database in Goolge Earth Engine is used to crate this parcel based dataset:
+https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR
 
 
 # Requirements 
