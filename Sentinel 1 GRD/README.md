@@ -1,7 +1,5 @@
 # Addtional information about the dataset creation and introduction script
 
-The data base creation is split into three steps:
-
 1) Mining the data from Google Earth Engine 
     - This includes including field buffer zone
     - Border Noise Removal
@@ -28,7 +26,7 @@ https://eartharxiv.org/repository/view/2541/
 ---------------------------------------------------------------------------
 
 
-# Information and requirements for dataset creation scripts
+# Information and requirements 
 
 1) Mining_S1GRD_Per_Parcel_GEE_Python_API.py
 
