@@ -42,4 +42,22 @@ This script requires the user to have an active Google Earth Engine account. Use
 
 -------------------------------------------------------------------
 
-3) Introduction Script Sentinel 2....
+3) SandBoxNL_Code_Introduction_Sentinel2.py
+
+- import netCDF4 as nc4
+- import numpy as np
+- import geopandas as gpd
+- import matplotlib.pyplot as plt
+- import pandas as pd
+- from netCDF4 import Dataset
+- #import pickle
+- import pickle5 as pickle
+- from datetime import datetime, date, time
+- import glob
+- import math    
+- import os
+- from shapely.geometry import Point
+- from shapely.geometry.polygon import Polygon
+- from shapely import wkt
+- import shapely
+- import calendar
