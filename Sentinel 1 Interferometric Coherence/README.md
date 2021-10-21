@@ -80,8 +80,10 @@ The output is ready for analysis and visualization.
 
 This example script works with the interferometric coherence dataset used in the SanboxNL publication covering Flevoland for the relative orbit 110. 
 
+-----------------------------------------------------------------------------
 
-For SandBoxNL_Code_Introduction_Coherence_88_Pickle.ipynb follwoing packages are needed:
+5)  SandBoxNL_Code_Introduction_Coherence_88_Pickle.ipynb 
+Follwoing packages are needed:
 
 import numpy as np
 import geopandas as gpd
@@ -95,4 +97,7 @@ import math
 import os
 import pickle5 as pickle
 from shapely.geometry import Point
-from shapely.geometry.polygon import Polygon
+from shapely.geometry.polygon import Polygon 
+
+This example script works with the interferometric coherence dataset covering one slice of the orbit 88 Sentinel 1 aquisistion. 
+
