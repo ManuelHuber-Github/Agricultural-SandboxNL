@@ -85,19 +85,18 @@ This example script works with the interferometric coherence dataset used in the
 5)  SandBoxNL_Code_Introduction_Coherence_88_Pickle.ipynb 
 Follwoing packages are needed:
 
-import numpy as np
-import geopandas as gpd
-import matplotlib.pyplot as plt
-import pandas as pd
-from netCDF4 import Dataset
-import pickle
-from datetime import datetime, date, time
-import glob
-import math    
-import os
-import pickle5 as pickle
-from shapely.geometry import Point
-from shapely.geometry.polygon import Polygon 
+- import numpy as np
+- import geopandas as gpd
+- import matplotlib.pyplot as plt
+- import pandas as pd
+- from netCDF4 import Dataset
+- from datetime import datetime, date, time
+- import glob
+- import math    
+- import os
+- import pickle5 as pickle
+- from shapely.geometry import Point
+- from shapely.geometry.polygon import Polygon 
 
 This example script works with the interferometric coherence dataset covering one slice of the orbit 88 Sentinel 1 aquisistion. 
 
