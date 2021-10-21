@@ -79,3 +79,20 @@ The output is ready for analysis and visualization.
 - from shapely.geometry.polygon import Polygon
 
 This example script works with the interferometric coherence dataset used in the SanboxNL publication covering Flevoland for the relative orbit 110. 
+
+
+For SandBoxNL_Code_Introduction_Coherence_88_Pickle.ipynb follwoing packages are needed:
+
+import numpy as np
+import geopandas as gpd
+import matplotlib.pyplot as plt
+import pandas as pd
+from netCDF4 import Dataset
+import pickle
+from datetime import datetime, date, time
+import glob
+import math    
+import os
+import pickle5 as pickle
+from shapely.geometry import Point
+from shapely.geometry.polygon import Polygon
